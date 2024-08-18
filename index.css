@@ -97,19 +97,19 @@ nav > ul > li > a{
     cursor: pointer;
 }
 
-@media only screen and (max-width: 430px){
+@media (max-width: 900px){
     nav{
         width: 100%;
         flex-direction: column;
     }
 }
-@media only screen and (max-width: 430px){
+@media (max-width: 900px){
     .text > p{
         width: 100%;
        font-size: 3rem;
     }
 }
-@media only screen and (max-width: 430px){
+@media (max-width: 900px){
     .hero-section{
         width: 100%;
     }
@@ -159,19 +159,19 @@ nav > ul > li > a{
    
 
 }
-@media only screen and (max-width: 430px){
+@media (max-width: 616px){
     .container{
         width: 100%;
         flex-direction: column;
     }
 }
-@media only screen and (max-width: 430px){
+@media (max-width: 616px){
     .panel{
         width: 50%;
        font-size: 1rem;
     }
 }
-@media only screen and (max-width: 430px){
+@media (max-width: 616px){
     .sub-heading2{
         width: 50%;
        font-size: 2rem;
@@ -325,7 +325,7 @@ nav > ul > li > a{
 @media (max-width: 616px){
     .host-profile h3{
         width: 100%;
-        font-size: 5rem;
+        font-size: 1rem;
     }
 }
 
